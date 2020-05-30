@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20203202최준혁_3주차 과제2", "20203202최준혁_3주차 과제2\20203202최준혁_3주차 과제2.csproj", "{830B7EBF-8EB5-4BDE-92AC-D3F2B7A0A3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830B7EBF-8EB5-4BDE-92AC-D3F2B7A0A3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830B7EBF-8EB5-4BDE-92AC-D3F2B7A0A3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830B7EBF-8EB5-4BDE-92AC-D3F2B7A0A3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830B7EBF-8EB5-4BDE-92AC-D3F2B7A0A3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03C4C742-F667-42E9-BE7A-5D62E5CA2994}
+	EndGlobalSection
+EndGlobal
