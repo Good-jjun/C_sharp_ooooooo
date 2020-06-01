@@ -1,0 +1,10 @@
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\bin\Debug\20203202 최준혁 과제 4.exe.config
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\bin\Debug\20203202 최준혁 과제 4.exe
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\bin\Debug\20203202 최준혁 과제 4.pdb
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\20203202 최준혁 과제 4.csprojAssemblyReference.cache
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\_20203202_최준혁_과제_4.Form1.resources
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\_20203202_최준혁_과제_4.Properties.Resources.resources
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\20203202 최준혁 과제 4.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\20203202 최준혁 과제 4.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\20203202 최준혁 과제 4.exe
+C:\Users\chldl\Desktop\웹프로그래밍C#\20203202최준혁_9주차\20203202 최준혁 과제 4\20203202 최준혁 과제 4\obj\Debug\20203202 최준혁 과제 4.pdb
