@@ -1,0 +1,10 @@
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\bin\Debug\20203202_최준혁 문제 1.exe.config
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\bin\Debug\20203202_최준혁 문제 1.exe
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\bin\Debug\20203202_최준혁 문제 1.pdb
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\20203202_최준혁 문제 1.csprojAssemblyReference.cache
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\_20203202_최준혁_문제_1.Form1.resources
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\_20203202_최준혁_문제_1.Properties.Resources.resources
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\20203202_최준혁 문제 1.csproj.GenerateResource.cache
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\20203202_최준혁 문제 1.csproj.CoreCompileInputs.cache
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\20203202_최준혁 문제 1.exe
+C:\Users\chldl\Desktop\선배가 주신 C#\20203202_최준혁 문제 1\20203202_최준혁 문제 1\obj\Debug\20203202_최준혁 문제 1.pdb
