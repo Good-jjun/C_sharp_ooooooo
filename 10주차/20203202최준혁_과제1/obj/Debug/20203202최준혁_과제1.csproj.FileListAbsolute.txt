@@ -1,0 +1,9 @@
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\bin\Debug\20203202최준혁_과제1.exe.config
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\bin\Debug\20203202최준혁_과제1.exe
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\bin\Debug\20203202최준혁_과제1.pdb
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\obj\Debug\_20203202최준혁_과제1.Form1.resources
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\obj\Debug\_20203202최준혁_과제1.Properties.Resources.resources
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\obj\Debug\20203202최준혁_과제1.csproj.GenerateResource.cache
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\obj\Debug\20203202최준혁_과제1.csproj.CoreCompileInputs.cache
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\obj\Debug\20203202최준혁_과제1.exe
+C:\Users\정주환\Desktop\최준혁\20203202최준혁_과제1\obj\Debug\20203202최준혁_과제1.pdb
